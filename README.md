@@ -1,6 +1,6 @@
-# Drum Machine App
+# Calculator App
 
-This is a drum machine application built using React, Vite, and TypeScript. It allows users to play various drum sounds by clicking on drum pads. Each pad corresponds to a different drum sound.
+This is a calculator application built using React, Vite, and TypeScript. It allows users to perform various mathematical calculations by clicking on calculator buttons. Each button corresponds to a different mathematical function.
 
 ## `Demo 👇`
 https://react-calculator-rho-topaz.vercel.app
